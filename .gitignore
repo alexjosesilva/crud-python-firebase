@@ -1,0 +1,22 @@
+node_modules
+
+config/
+
+# Ambiente virtual
+venv/
+env/
+.env/
+
+# Arquivos de IDE/editor
+.idea/
+.vscode/
+*.swp
+
+# Diretórios de build e cache
+__pycache__/
+build/
+dist/
+*.pyc
+
+# Arquivos sensíveis
+*.key
