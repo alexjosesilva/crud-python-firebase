@@ -20,3 +20,6 @@ dist/
 
 # Arquivos sensíveis
 *.key
+
+#package
+package-lock.json
